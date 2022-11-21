@@ -1,0 +1,96 @@
+Y,Bankrupt?: Class label (target),"Банкрот?: Целевая переменная, определяющая является ли компанию банкротом"
+X1,ROA(C) before interest and depreciation before interest: Return On Total Assets(C),ROA(C) до вычета процентов и амортизации до вычета процентов: рентабельность общих активов(C)
+X2,ROA(A) before interest and % after tax: Return On Total Assets(A),ROA(A) до вычета процентов и % после налогообложения: рентабельность общих активов(A)
+X3,ROA(B) before interest and depreciation after tax: Return On Total Assets(B),ROA(B) до вычета процентов и амортизации после налогообложения: рентабельность общих активов(B)
+X4,Operating Gross Margin: Gross Profit/Net Sales,Операционная валовая прибыль: валовая прибыль/чистые продажи
+X5,Realized Sales Gross Margin: Realized Gross Profit/Net Sales,Валовая маржа реализованных продаж: реализованная валовая прибыль/чистые продажи
+X6,Operating Profit Rate: Operating Income/Net Sales,Норма операционной прибыли: операционная прибыль/чистые продажи
+X7,Pre-tax net Interest Rate: Pre-Tax Income/Net Sales,Чистая процентная ставка до налогообложения: прибыль до налогообложения/чистые продажи
+X8,After-tax net Interest Rate: Net Income/Net Sales,Чистая процентная ставка после уплаты налогов: чистая прибыль/чистые продажи
+X9,Non-industry income and expenditure/revenue: Net Non-operating Income Ratio,Непромышленные доходы и расходы/доходы: Коэффициент чистого внереализационного дохода
+X10,Continuous interest rate (after tax): Net Income-Exclude Disposal Gain or Loss/Net Sales,Непрерывная процентная ставка (после налогообложения): чистая прибыль без учета прибыли или убытка от выбытия/чистых продаж
+X11,Operating Expense Rate: Operating Expenses/Net Sales,Коэффициент операционных расходов: операционные расходы/чистые продажи
+X12,Research and development expense rate: (Research and Development Expenses)/Net Sales,Ставка расходов на исследования и разработки: (расходы на исследования и разработки)/чистый объем продаж
+X13,Cash flow rate: Cash Flow from Operating/Current Liabilities,Скорость движения денежных средств: движение денежных средств от операционных/текущих обязательств
+X14,Interest-bearing debt interest rate: Interest-bearing Debt/Equity,Процентная ставка долга: Процентный долг/капитал
+X15,Tax rate (A): Effective Tax Rate,Налоговая ставка (A): Эффективная налоговая ставка
+X16,Net Value Per Share (B): Book Value Per Share(B),Чистая стоимость одной акции (B): Балансовая стоимость одной акции (B)
+X17,Net Value Per Share (A): Book Value Per Share(A),Чистая стоимость одной акции (A): Балансовая стоимость одной акции (A)
+X18,Net Value Per Share (C): Book Value Per Share(C),Чистая стоимость на акцию (C): Балансовая стоимость на акцию (C)
+X19,Persistent EPS in the Last Four Seasons: EPS-Net Income,Постоянная прибыль на акцию за последние четыре сезона: чистая прибыль на акцию
+X20,Cash Flow Per Share,Денежный поток на акцию
+X21,Revenue Per Share (Yuan ¥): Sales Per Share,Доход на акцию (в юанях): продажи на акцию
+X22,Operating Profit Per Share (Yuan ¥): Operating Income Per Share,Операционная прибыль на акцию (в юанях): Операционная прибыль на акцию
+X23,Per Share Net profit before tax (Yuan ¥): Pretax Income Per Share,Чистая прибыль на акцию до налогообложения (в юанях): прибыль на акцию до налогообложения
+X24,Realized Sales Gross Profit Growth Rate,Темпы роста валовой прибыли реализованных продаж
+X25,Operating Profit Growth Rate: Operating Income Growth,Темпы роста операционной прибыли: Рост операционной прибыли
+X26,After-tax Net Profit Growth Rate: Net Income Growth,Темпы роста чистой прибыли после налогообложения: Рост чистой прибыли
+X27,Regular Net Profit Growth Rate: Continuing Operating Income after Tax Growth,Регулярный темп роста чистой прибыли: постоянная операционная прибыль после роста налогов
+X28,Continuous Net Profit Growth Rate: Net Income-Excluding Disposal Gain or Loss Growth,Непрерывный темп роста чистой прибыли: рост чистой прибыли без учета прибыли или убытка от выбытия
+X29,Total Asset Growth Rate: Total Asset Growth,Общий темп роста активов: Общий рост активов
+X30,Net Value Growth Rate: Total Equity Growth,Темп роста чистой стоимости: рост общего капитала
+X31,Total Asset Return Growth Rate Ratio: Return on Total Asset Growth,Коэффициент темпов роста общей доходности активов: рентабельность совокупного роста активов
+X32,Cash Reinvestment %: Cash Reinvestment Ratio,Денежные реинвестиции %: Денежный коэффициент реинвестирования
+X33,Current Ratio,Текущее соотношение
+X34,Quick Ratio: Acid Test,Быстрый коэффициент
+X35,Interest Expense Ratio: Interest Expenses/Total Revenue,Соотношение процентных расходов: процентные расходы/общий доход
+X36,Total debt/Total net worth: Total Liability/Equity Ratio,Общая задолженность/общая чистая стоимость: соотношение общей суммы обязательств/собственного капитала
+X37,Debt ratio %: Liability/Total Assets,Соотношение долга %: Обязательства/Общие активы
+X38,Net worth/Assets: Equity/Total Assets,Чистая стоимость/активы: собственный капитал/общие активы
+X39,Long-term fund suitability ratio (A): (Long-term Liability+Equity)/Fixed Assets,Коэффициент пригодности долгосрочного фонда (A): (Долгосрочные обязательства + собственный капитал) / Основные средства
+X40,Borrowing dependency: Cost of Interest-bearing Debt,Зависимость от заимствования: стоимость процентного долга
+X41,Contingent liabilities/Net worth: Contingent Liability/Equity,Условные обязательства/собственный капитал: условные обязательства/капитал
+X42,Operating profit/Paid-in capital: Operating Income/Capital,Операционная прибыль/Оплаченный капитал: Операционная прибыль/Капитал
+X43,Net profit before tax/Paid-in capital: Pretax Income/Capital,Чистая прибыль до налогообложения/Оплаченный капитал: Доход до налогообложения/Капитал
+X44,Inventory and accounts receivable/Net value: (Inventory+Accounts Receivables)/Equity,Запасы и дебиторская задолженность/Чистая стоимость: (Запасы+Дебиторская задолженность)/Собственный капитал
+X45,Total Asset Turnover,Общий оборот активов
+X46,Accounts Receivable Turnover,Оборот дебиторской задолженности
+X47,Average Collection Days: Days Receivable Outstanding,Среднее количество дней сбора: дни дебиторской задолженности
+X48,Inventory Turnover Rate (times),Коэффициент оборачиваемости запасов (раз)
+X49,Fixed Assets Turnover Frequency,Частота оборачиваемости основных средств
+X50,Net Worth Turnover Rate (times): Equity Turnover,Коэффициент оборачиваемости чистой стоимости (раз): оборот капитала
+X51,Revenue per person: Sales Per Employee,Доход на человека: продажи на одного сотрудника
+X52,Operating profit per person: Operation Income Per Employee,Операционная прибыль на человека: Операционный доход на сотрудника
+X53,Allocation rate per person: Fixed Assets Per Employee,Норма распределения на человека: Основные средства на одного работника
+X54,Working Capital to Total Assets,Оборотный капитал к общей сумме активов
+X55,Quick Assets/Total Assets,Быстрые активы/Все активы
+X56,Current Assets/Total Assets,Текущие активы/общие активы
+X57,Cash/Total Assets,Денежные средства/общие активы
+X58,Quick Assets/Current Liability,Быстрые активы/текущие обязательства
+X59,Cash/Current Liability,Денежные/текущие обязательства
+X60,Current Liability to Assets,Текущие обязательства перед активами
+X61,Operating Funds to Liability,Операционные фонды к ответственности
+X62,Inventory/Working Capital,Товарно-материальные запасы/оборотный капитал
+X63,Inventory/Current Liability,Товарно-материальные запасы/текущие обязательства
+X64,Current Liabilities/Liability,Текущие обязательства/обязательства
+X65,Working Capital/Equity,Оборотный капитал/собственный капитал
+X66,Current Liabilities/Equity,Текущие обязательства/капитал
+X67,Long-term Liability to Current Assets,Долгосрочные обязательства перед текущими активами
+X68,Retained Earnings to Total Assets,Нераспределенная прибыль к общей сумме активов
+X69,Total income/Total expense,Общий доход/общий расход
+X70,Total expense/Assets,Общие расходы/активы
+X71,Current Asset Turnover Rate: Current Assets to Sales,Коэффициент оборачиваемости текущих активов: текущие активы к продажам
+X72,Quick Asset Turnover Rate: Quick Assets to Sales,Коэффициент оборачиваемости быстрых активов: от быстрых активов к продажам
+X73,Working capitcal Turnover Rate: Working Capital to Sales,Коэффициент оборачиваемости оборотного капитала: отношение оборотного капитала к продажам
+X74,Cash Turnover Rate: Cash to Sales,Коэффициент денежного оборота: денежные средства к продажам
+X75,Cash Flow to Sales,Денежный поток к продажам
+X76,Fixed Assets to Assets,Основные средства к активам
+X77,Current Liability to Liability,Текущая ответственность за ответственность
+X78,Current Liability to Equity,Текущая задолженность перед собственным капиталом
+X79,Equity to Long-term Liability,Капитал к долгосрочным обязательствам
+X80,Cash Flow to Total Assets,Денежный поток к общим активам
+X81,Cash Flow to Liability,Денежный поток к обязательствам
+X82,CFO to Assets,Финансовый директор по активам
+X83,Cash Flow to Equity,Денежный поток в капитал
+X84,Current Liability to Current Assets,Текущая задолженность перед текущими активами
+X85,"Liability-Assets Flag: 1 if Total Liability exceeds Total Assets, 0 otherwise","Флаг пассивов-активов: 1, если общая пассивность превышает общую сумму активов, 0 в противном случае"
+X86,Net Income to Total Assets,Чистая прибыль к общим активам
+X87,Total assets to GNP price,Суммарные активы по отношению к цене ВНП
+X88,No-credit Interval,Интервал без кредита
+X89,Gross Profit to Sales,Валовая прибыль к продажам
+X90,Net Income to Stockholder's Equity,Чистая прибыль к акционерному капиталу
+X91,Liability to Equity,Ответственность перед капиталом
+X92,Degree of Financial Leverage (DFL),Степень финансового рычага (DFL)
+X93,Interest Coverage Ratio (Interest expense to EBIT),Коэффициент покрытия процентов (процентные расходы к EBIT)
+X94,"Net Income Flag: 1 if Net Income is Negative for the last two years, 0 otherwise","Флаг чистого дохода: 1, если чистый доход отрицательный за последние два года, 0 в противном случае"
+X95,Equity to Liability,Справедливость к ответственности
