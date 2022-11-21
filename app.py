@@ -82,8 +82,7 @@ with st.expander("Описание пайплайна работы", expanded=Tr
 
 <b><i>5. Выбор моделей, обучение и валидация модели с ними (с фичами):</b></i>
 С использованием библиотек scikit-learn, pandas, seaborn.
-<
-b><i>6. Сравнение результатов:</b></i>
+<b><i>Сравнение результатов:</b></i>
 Анализ и графическое представление работы алгоритмов. При некорректной работе или плохим результатом проводится п. 4 и п. 5.
 
 <b><i>7. Оформление микросервиса Streamlit:</b></i>
@@ -92,7 +91,7 @@ b><i>6. Сравнение результатов:</b></i>
             unsafe_allow_html=True
         )
 
-with st.expander("Описание пайплайна работы", expanded=True):
+with st.expander("О применении машинного обучения", expanded=True):
 
     st.write(
             """
@@ -139,6 +138,9 @@ data = pd.read_csv("./dataset.csv", sep=",")
 
 st.write(""" ### Таблица с данными: """, data)
 
+col_data = pd.read_csv("./col_description.csv", sep=",", header=None)
+st.write(""" ### Описание признаков: """, col_data)
+
 st.write(
     """
         # 2. Обработка (препроцессинг)
@@ -183,6 +185,8 @@ st.code(
     """
 )
 st.text(data.info)
+st.text(pd.DataFrame(data=data.info()))
+
 st.write("""Поскольку пропущенных значений нет, мы можем перейти к анализу данных.""")
 
 #          VISUALIZATIONS
