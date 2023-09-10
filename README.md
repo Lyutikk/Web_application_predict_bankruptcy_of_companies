@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Применение методов машинного обучения в анализе банкротства</b></h1>
 
-  <p align="center"><img src="https://lyutikk-streamlit-app-test-app-6dn13h.streamlit.app/~/+/media/49465fbc96698dd4a47c50585086c763dcdf8ada5b74d6ceafbd6b97.png" width="1000" height="600"></p>
+  <p align="center"><img src="https://github.com/Lyutikk/Web_application_predict_bankruptcy_of_companies/blob/master/img.png" width="1000" height="600"></p>
   <h1 align="center">Рабочее web приложение с подробной информацией доступно по ссылке:</h1><h2 align="center">https://lyutikk-streamlit-app-test-app-6dn13h.streamlit.app/</h2>
   
   <h2>Краткое описание задачи</h2>
@@ -12,7 +12,7 @@
   </p>
   
   <h2>Этапы разработки</h2>
-  <p align="center"><img src="https://lyutikk-streamlit-app-test-app-6dn13h.streamlit.app/~/+/media/9f626e4967386241012a14ba7b92aad994beeaed49fbea683a914a9b.png" width="1000" height="200"></p>
+  <p align="center"><img src="https://github.com/Lyutikk/Web_application_predict_bankruptcy_of_companies/blob/master/stages.png" width="1000" height="200"></p>
   
   <h2>Информация о датасете</h2>
   <p><b>Про сами данные:</b> Данные были получены из Тайваньского экономического журнала за период с 1999 по 2009 год. Банкротство компании было определено на              основании правил ведения бизнеса Тайваньской фондовой биржи.</p>
